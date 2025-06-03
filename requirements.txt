@@ -1,2 +1,3 @@
 numpy>=1.19
 gymnasium>=0.29
+matplotlib>=3.0
