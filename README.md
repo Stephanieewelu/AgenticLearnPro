@@ -55,4 +55,8 @@ MIT
 
 ## Contributing
 
+<<<<<<< HEAD
 Contributions are welcome! Please feel free to submit a Pull Request.
+=======
+Contributions are welcome! Please feel free to submit a Pull Request.
+>>>>>>> 78cce63c43ad1bea62213c8716e9b46280116f8d
